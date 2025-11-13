@@ -1,0 +1,24 @@
+# Example Service Process for Testing
+
+## New Apprentice Onboarding Process
+
+### Initial Contact
+When an apprentice is accepted into the program, we send them a welcome email with next steps. We schedule an orientation session and send them paperwork to complete.
+
+### Orientation Day
+Apprentices arrive for orientation. We give them a tour of the facilities, introduce them to key staff members, and review program expectations. They receive their employee handbook and complete required forms.
+
+### Training Assignment
+We assign apprentices to their training cohort and connect them with their mentor. They receive their training schedule and learning materials. We also set up their accounts for our learning management system.
+
+### First Week
+During the first week, apprentices attend safety training and begin their technical instruction. They meet with their supervisor to discuss goals and expectations. We check in daily to see how they're adjusting.
+
+### 30-Day Check-in
+At the 30-day mark, we conduct a formal check-in meeting. We review their progress, address any concerns, and gather feedback about the program. We also introduce them to additional resources and support services.
+
+### Ongoing Support
+Throughout the program, apprentices have regular meetings with mentors and supervisors. They complete skills assessments at key milestones. We provide additional training and support as needed to ensure their success.
+
+### Completion
+When apprentices complete the program, we conduct an exit interview and gather feedback. We provide them with certification documentation and help them transition to full employment or advanced positions.
