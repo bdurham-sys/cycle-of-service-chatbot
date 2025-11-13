@@ -1,0 +1,114 @@
+# Employer Onboarding Cycle of Service
+
+## Purpose
+Ensure new employer partners have a smooth, supportive onboarding experience that sets the foundation for successful apprenticeship programs.
+
+## Stage 1: Initial Partnership
+
+### Customer Touchpoint 1: First Contact
+- **Description:** Initial conversation with potential employer partner
+- **Responsibility:** Business Development Team
+- **Timing:** Within 24 hours of inquiry
+
+✨ WOW MOMENT: Personalized industry research deck showing how apprenticeships have benefited similar companies in their sector
+
+📊 MEASURABLE ACTION: First contact response time
+- Success Criteria: 100% of inquiries receive response within 24 hours
+- Measurement Method: CRM timestamp tracking
+- Target: 100% compliance rate
+
+### Customer Touchpoint 2: Needs Assessment Meeting
+- **Description:** In-depth meeting to understand employer's talent needs, company culture, and goals
+- **Responsibility:** Partnership Manager
+- **Timing:** Within 1 week of first contact
+
+📊 MEASURABLE ACTION: Needs assessment completion
+- Success Criteria: Complete needs assessment document for 100% of interested employers
+- Measurement Method: Document completion tracking in CRM
+- Target: 100% completion rate
+
+## Stage 2: Program Design
+
+### Customer Touchpoint 3: Custom Program Proposal
+- **Description:** Delivery of customized apprenticeship program proposal
+- **Responsibility:** Education Team + Partnership Manager
+- **Timing:** Within 2 weeks of needs assessment
+
+✨ WOW MOMENT: Interactive digital proposal with embedded videos of similar success stories and virtual tour of training facilities
+
+📊 MEASURABLE ACTION: Proposal acceptance rate
+- Success Criteria: 60% of proposals result in signed partnership agreements
+- Measurement Method: Proposal tracking in CRM
+- Target: 60% conversion rate
+
+### Customer Touchpoint 4: Contract Signing
+- **Description:** Review and sign partnership agreement
+- **Responsibility:** Legal Team + Partnership Manager
+- **Timing:** Within 1 week of proposal acceptance
+
+📊 MEASURABLE ACTION: Contract turnaround time
+- Success Criteria: Contracts finalized within 1 week of acceptance
+- Measurement Method: Contract date tracking
+- Target: 90% within 1 week
+
+## Stage 3: Launch Preparation
+
+### Customer Touchpoint 5: Kickoff Meeting
+- **Description:** Comprehensive meeting with employer HR and management team
+- **Responsibility:** Partnership Manager + Education Team
+- **Timing:** Within 2 weeks of contract signing
+
+✨ WOW MOMENT: Customized "Partnership Playbook" - a branded guide with step-by-step instructions, contact cards for entire Apprenti team, and success metrics dashboard template
+
+📊 MEASURABLE ACTION: Kickoff meeting attendance and satisfaction
+- Success Criteria: 90% of key stakeholders attend; 4.5/5 satisfaction rating
+- Measurement Method: Attendance tracking + post-meeting survey
+- Target: 90% attendance, 4.5/5 rating
+
+### Customer Touchpoint 6: Mentor Training
+- **Description:** Training session for designated mentors at employer site
+- **Responsibility:** Education Team
+- **Timing:** Before apprentice start date
+
+📊 MEASURABLE ACTION: Mentor training completion
+- Success Criteria: 100% of mentors complete training; score 85%+ on assessment
+- Measurement Method: Training attendance + assessment scores
+- Target: 100% completion, 85% assessment pass rate
+
+## Stage 4: Ongoing Support
+
+### Customer Touchpoint 7: Weekly Check-ins (First Month)
+- **Description:** Regular check-in calls with employer contact
+- **Responsibility:** Partnership Manager
+- **Timing:** Weekly for first 4 weeks
+
+✨ WOW MOMENT: Surprise visit with coffee and treats for the apprentice and mentor team during week 2
+
+📊 MEASURABLE ACTION: Check-in completion and issue resolution
+- Success Criteria: 100% of scheduled check-ins completed; 95% of issues resolved within 48 hours
+- Measurement Method: Call logs + issue tracking system
+- Target: 100% check-ins, 95% issue resolution
+
+### Customer Touchpoint 8: Monthly Business Reviews
+- **Description:** Formal review meeting covering apprentice progress, ROI metrics, and feedback
+- **Responsibility:** Partnership Manager + Education Team
+- **Timing:** Monthly for duration of partnership
+
+📊 MEASURABLE ACTION: Business review completion and employer satisfaction
+- Success Criteria: 100% of reviews completed on time; maintain 4/5 average satisfaction score
+- Measurement Method: Meeting tracking + satisfaction surveys
+- Target: 100% on-time completion, 4/5 satisfaction
+
+---
+
+## Success Metrics Summary
+
+- Response time: 100% within 24 hours
+- Proposal conversion: 60%
+- Contract turnaround: 90% within 1 week
+- Mentor training completion: 100%
+- Issue resolution: 95% within 48 hours
+- Overall employer satisfaction: 4/5 or higher
+
+## Document Owner
+Education Team - Updated Quarterly

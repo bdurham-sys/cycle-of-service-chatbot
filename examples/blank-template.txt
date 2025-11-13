@@ -1,0 +1,101 @@
+# [SERVICE NAME] Cycle of Service
+
+## Purpose
+[Describe the purpose of this service and what customer experience you're designing]
+
+## Target Customer
+[Who is this service for? Apprentices, Employers, Both?]
+
+---
+
+## Stage 1: [STAGE NAME]
+
+**Objective:** [What are you trying to achieve in this stage?]
+
+### Customer Touchpoint 1: [Touchpoint Name]
+- **Description:** [What happens at this touchpoint?]
+- **Responsibility:** [Who is responsible for this?]
+- **Timing:** [When does this happen? How long does it take?]
+
+✨ WOW MOMENT: [What unexpected, delightful experience will you create?]
+
+📊 MEASURABLE ACTION: [What specific action will you measure?]
+- Success Criteria: [How do you define success?]
+- Measurement Method: [How will you track this?]
+- Target: [What's your specific goal? Include numbers/percentages]
+
+### Customer Touchpoint 2: [Touchpoint Name]
+- **Description:** 
+- **Responsibility:** 
+- **Timing:** 
+
+📊 MEASURABLE ACTION: 
+- Success Criteria: 
+- Measurement Method: 
+- Target: 
+
+---
+
+## Stage 2: [STAGE NAME]
+
+**Objective:** 
+
+### Customer Touchpoint 3: [Touchpoint Name]
+- **Description:** 
+- **Responsibility:** 
+- **Timing:** 
+
+✨ WOW MOMENT: 
+
+📊 MEASURABLE ACTION: 
+- Success Criteria: 
+- Measurement Method: 
+- Target: 
+
+---
+
+## Stage 3: [STAGE NAME]
+
+**Objective:** 
+
+[Continue with additional touchpoints...]
+
+---
+
+## Success Metrics Summary
+
+List all key metrics you'll track:
+- [Metric 1]: [Target]
+- [Metric 2]: [Target]
+- [Metric 3]: [Target]
+
+## Review Schedule
+[How often will this Cycle of Service be reviewed and updated?]
+
+## Document Owner
+[Who owns this document and is responsible for updates?]
+
+---
+
+## TIPS FOR COMPLETION:
+
+**WOW Moments Should:**
+- Exceed customer expectations
+- Create emotional connection
+- Be intentional and planned
+- Occur at strategic high-impact points
+- Be memorable and shareable
+
+**Measurable Actions Should:**
+- Be specific and quantifiable
+- Include clear success criteria
+- Have defined timelines
+- Specify who's responsible
+- Be trackable with data
+
+**Customer Touchpoints Should:**
+- Cover the complete journey (no gaps)
+- Be sequenced logically
+- Include timing information
+- Specify responsible parties
+- Connect to customer needs
